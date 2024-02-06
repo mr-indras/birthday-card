@@ -65,7 +65,7 @@ background-size: 64px 128px;
     box-shadow: inset 2px 0 1px rgba(0, 0, 0, .05);
 }
 #card {
-    max-width: 70vw;
+    max-width: 100%;
     margin: 0 auto;
     transform-style: preserve-3d;
     -moz-transform-style: preserve-3d;
